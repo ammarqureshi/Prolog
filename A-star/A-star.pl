@@ -1,4 +1,3 @@
-%could have sorted the whole frontier list but was trying to follow the example results, where the whole list wasnt sorted.
 
 arc([N,PCost],M,Seed,Cost) :- M is N*Seed, Cost is PCost + 1.
 arc([N,PCost],M,Seed,Cost) :- M is N*Seed + 1, Cost is PCost +2.
