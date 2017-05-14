@@ -1,2 +1,2 @@
 # Symbolic programming
-Couple of prolg assingemnts done during my 3rd year.
+Couple of prolg assingnments done during my 3rd year.
